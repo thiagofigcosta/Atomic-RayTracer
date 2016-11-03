@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/media/nanotech/DATA/Programming/Atomic-RayTracer/src/raytracer/Raytracer.java</file>
+            <file>file:/media/nanotech/DATA/Programming/Atomic-RayTracer/src/raytracer/scene/Material.java</file>
+            <file>file:/media/nanotech/DATA/Programming/Atomic-RayTracer/src/raytracer/math/Vector3.java</file>
+            <file>file:/media/nanotech/DATA/Programming/Atomic-RayTracer/src/raytracer/Ray.java</file>
+            <file>file:/media/nanotech/DATA/Programming/Atomic-RayTracer/src/raytracer/Main.java</file>
+            <file>file:/media/nanotech/DATA/Programming/Atomic-RayTracer/src/raytracer/io/Input.java</file>
+            <file>file:/media/nanotech/DATA/Programming/Atomic-RayTracer/src/raytracer/scene/Scene.java</file>
+        </group>
+    </open-files>
+</project-private>
