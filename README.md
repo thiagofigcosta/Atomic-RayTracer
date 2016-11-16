@@ -8,6 +8,8 @@ Codigo: https://github.com/thiagofigcosta/Atomic-RayTracer
 
 VIDEO: https://youtu.be/n8a8JEEygTE
 
+OBJ LINA(muito grande): http://www.4shared.com/file/ztqicIJSce/Lina.html
+
 Para excecutar no windows/linux/qualquer sistema com java:
 	1-arrastar o .jar da pasta bin para a pasta do projeto e executar no terminal: "java -jar Atomic-RayTracer.jar cena-lina.txt Lina" os dois ultimos argumentos fazem referencia respectivamente a cena que será usada e a imagem de saida.
 	2-abrir o projeto usando o netbeans, argumentos para todas as cenas se encontram no projeto.
