@@ -8,6 +8,8 @@ Codigo: https://github.com/thiagofigcosta/Atomic-RayTracer
 
 VIDEO: https://youtu.be/n8a8JEEygTE
 
+VIDEO 2: https://www.youtube.com/watch?v=523vDvJLlK8
+
 OBJ LINA(muito grande): http://www.4shared.com/file/ztqicIJSce/Lina.html
 
 Para excecutar no windows/linux/qualquer sistema com java:
