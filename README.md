@@ -1,4 +1,15 @@
 # Atomic-RayTracer
+```
+#####################
+#*  * **** *  *  ** #
+#** * *  * ** * *  *#
+#* ** **** * ** *  *#
+#*  * *  * *  *  ** #
+#####################
+```
+DevelopedBy: nanoTech e Cica
+email: nanotechbr.corp@gmail.com
+youtube: https://www.youtube.com/user/LegiaoGamerBR
 
 Raytracer por Thiago Figueiredo Costa e Gustavo Ceconelli
 
